@@ -1,8 +1,8 @@
-<h4> Olá! Eu sou Weverton Valber, Seja Bem vindo(a) ao meu GitHub 🚀 <h4/>
- 
+<h4> Olá! Eu sou Weverton Valber, Seja Bem vindo(a) ao meu GitHub <img src="https://i.ibb.co/Cvp34Vw/Oi.gif" width="30px"><h4/>
+
  ##
 - ⌕ Estudando Python e Django 
-- ↬ Sempre buscando inovação e mais conhecimento
+- ↬ Sempre em busca de mais conhecimento
 
  ##
  
@@ -21,11 +21,10 @@
   
   ##
   
-<div> 
+<div>
   <a href="https://instagram.com/wevertonvcp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:weverton542@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weverton-valber-24027b206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake gif](https://github.com/Wevertonvcp/Wevertonvcp/blob/output/github-contribution-grid-snake.svg)
- 
+ ![Snake animation](https://github.com/Wevertonvcp/wevertonvcp/blob/output/github-contribution-grid-snake.svg)
 </div>
