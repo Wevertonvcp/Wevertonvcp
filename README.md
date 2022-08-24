@@ -1,7 +1,8 @@
 <h4> Olá! Eu sou Weverton Valber, Seja Bem vindo(a) ao meu GitHub <img src="https://i.ibb.co/Cvp34Vw/Oi.gif" width="30px"><h4/>
 
  ##
-- ⌕ Estudando Python e Django 
+- ↬ Suporte de Software
+- ⌕ Estudante Full Stack
 - ↬ Sempre em busca de mais conhecimento
 
  ##
